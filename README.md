@@ -1,3 +1,3 @@
 # Travel Destinations 
 A simple app to keep track of destinations I'd like to visit. 
-[X] Iden typed this. Another thing. Additonal thing.
+[X] Iden typed this. Additional things. 
